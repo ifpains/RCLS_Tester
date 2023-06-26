@@ -24,13 +24,13 @@
 	<Item Name="SI100_ReactorTemperatureRise.ctl" Type="Class Private Data" URL="SI100_ReactorTemperatureRise.ctl">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
-	<Item Name="SI100_R1.vi" Type="VI" URL="../SI100_R1.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)D#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#1!!!!!A!%!!!!B!$Q!"1!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!Q!"%!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1!"!!!!!!</Property>
+	<Item Name="SI100.vi" Type="VI" URL="../SI100.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)D#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(T!!!!%A!@1"9!"!*3-1*3-A*3-Q*3.!!+5G6E&gt;7ZE97ZD:1!!#5!+!!."5$%!#5!+!!."5$)!#5!+!!."5$-!%%"1!!-!!1!#!!-$16"T!"&gt;!#A!1-S"+25-A1V1Z.4-A7&amp;%Q-1!!&amp;U!+!"!T)%J&amp;1S"$6$EV-3"954!R!!!81!I!%$-A3E6$)%.5/45S)&amp;B2-$%!!!1!!!!G1(!!(A!!%1^435.M98.T,GRW9WRB=X-!#V.*1WRB=X-A&lt;X6U!#B!=!!?!!!2$V.*1WRB=X-O&lt;(:D&lt;'&amp;T=Q!.5UF$&lt;'&amp;T=S"P&gt;81A-Q!I1(!!(A!!%1^435.M98.T,GRW9WRB=X-!$6.*1WRB=X-A&lt;X6U)$)!+%"Q!"Y!!"%05UF$&lt;'&amp;T=SZM&gt;G.M98.T!!V435.M98.T)'^V&gt;#!U!"6!#A!/6#V3;8.F)$*O:#".98A!!!N!#A!&amp;16!R)$)!#U!+!!6"5$)A-A!,1!I!"5&amp;1-C!T!)1!]!!5!!!!"!!&amp;!!9!"1!(!!A!#!!*!!I!#Q!-!!A!#!!)!!U!$A!0!"!!#!-!!2!!!!A!!!!)!!!!#!!!!!A!!!!)!!!!#!!!!!!!!!!!!!!!#1!!!!E!!!!*!!!!#1!!!!!!!!!!!!!!!!!!!!E!!!!*!!!!#1!!!!E!!!!!!!!!!!%!%1!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1082401296</Property>
 	</Item>
 </LVClass>
