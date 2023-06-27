@@ -1,41 +1,41 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="22308000">
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
-	<Property Name="varPersistentID:{009BDBD0-1407-4FBD-A0F4-1BB36B99A56E}" Type="Ref">/My Computer/BinarySignalProcessFiles/TPulse.vi/Pulse Timer/error in</Property>
-	<Property Name="varPersistentID:{01FE3074-4138-40A7-A1E6-CD86CB778D48}" Type="Ref">/My Computer/BinarySignalProcessFiles/Ton.vi/Pulse Timer/elapsed time (ms)</Property>
-	<Property Name="varPersistentID:{0207538E-60FA-4148-9633-209317E40E55}" Type="Ref">/My Computer/BinarySignalProcessFiles/Toff.vi/Pulse Timer/output</Property>
-	<Property Name="varPersistentID:{034835C3-61F1-4215-AF6C-B13F03E2E93B}" Type="Ref">/My Computer/BinarySignalProcessFiles/Ton.vi/Pulse Timer/output</Property>
-	<Property Name="varPersistentID:{07266517-2D06-4EC1-9875-71A589FABD0E}" Type="Ref">/My Computer/BinarySignalProcessFiles/Toff.vi/Edge Detect/error out</Property>
-	<Property Name="varPersistentID:{0A8F784A-E76C-4E55-9D04-34933980EBEB}" Type="Ref">/My Computer/BinarySignalProcessFiles/Toff.vi/Edge Detect/error in</Property>
-	<Property Name="varPersistentID:{0B158EF8-383B-43D5-91DD-2D9AEB81844A}" Type="Ref">/My Computer/BinarySignalProcessFiles/Ton.vi/Timer Off Delay/input</Property>
-	<Property Name="varPersistentID:{1A3CF964-56E5-4CCE-A58E-471182FD85FE}" Type="Ref">/My Computer/BinarySignalProcessFiles/Ton.vi/Pulse Timer/error in</Property>
-	<Property Name="varPersistentID:{244E696E-9F4C-4C47-85C9-73E0EA840BA2}" Type="Ref">/My Computer/BinarySignalProcessFiles/Ton.vi/Pulse Timer/preset time (ms)</Property>
-	<Property Name="varPersistentID:{3531BB28-299F-4E1B-BCFF-D085FAF45862}" Type="Ref">/My Computer/BinarySignalProcessFiles/Ton.vi/Timer Off Delay/elapsed time (ms)</Property>
-	<Property Name="varPersistentID:{390BC0B0-0A7D-4663-B9D9-3956B423390E}" Type="Ref">/My Computer/BinarySignalProcessFiles/Toff.vi/Timer Off Delay/preset time (ms)</Property>
-	<Property Name="varPersistentID:{3A350055-6DD4-436F-9C24-F77B2CDE22BC}" Type="Ref">/My Computer/BinarySignalProcessFiles/Toff.vi/Timer Off Delay/input</Property>
-	<Property Name="varPersistentID:{4DABD5FB-B54C-447C-A28A-EFBA05DBD1AA}" Type="Ref">/My Computer/BinarySignalProcessFiles/Toff.vi/Edge Detect/output</Property>
-	<Property Name="varPersistentID:{4E3442DC-4BCB-4EEE-81F8-D4D2A68D145E}" Type="Ref">/My Computer/BinarySignalProcessFiles/Toff.vi/Timer Off Delay/error in</Property>
-	<Property Name="varPersistentID:{5DA6F660-E8F0-4AAD-86DF-5D4DCA726D6E}" Type="Ref">/My Computer/BinarySignalProcessFiles/Toff.vi/Pulse Timer/error in</Property>
-	<Property Name="varPersistentID:{5E2CABA5-D27F-4639-A50A-C5C631C4CEF6}" Type="Ref">/My Computer/BinarySignalProcessFiles/Ton.vi/Pulse Timer/input</Property>
-	<Property Name="varPersistentID:{6A74CEF4-BDE4-424E-A256-F4E4BEAE599B}" Type="Ref">/My Computer/BinarySignalProcessFiles/Toff.vi/Pulse Timer/preset time (ms)</Property>
-	<Property Name="varPersistentID:{6E4CBE8E-3F5E-4141-A91C-AAEC02FCE307}" Type="Ref">/My Computer/BinarySignalProcessFiles/Ton.vi/Pulse Timer/error out</Property>
-	<Property Name="varPersistentID:{7807560D-CAD1-4CCF-A157-28F9E7004A20}" Type="Ref">/My Computer/BinarySignalProcessFiles/Ton.vi/Timer Off Delay/preset time (ms)</Property>
-	<Property Name="varPersistentID:{7F634C2D-2276-4046-ADEF-EB917F7791FE}" Type="Ref">/My Computer/BinarySignalProcessFiles/Ton.vi/Timer Off Delay/error in</Property>
-	<Property Name="varPersistentID:{82D1B1A3-9285-45D3-98E9-B00ADF4800F9}" Type="Ref">/My Computer/BinarySignalProcessFiles/TPulse.vi/Pulse Timer/input</Property>
-	<Property Name="varPersistentID:{93C43B90-8D43-4C51-9CE7-72B86C628171}" Type="Ref">/My Computer/BinarySignalProcessFiles/TPulse.vi/Pulse Timer/error out</Property>
-	<Property Name="varPersistentID:{A00EF49B-64B1-454D-A5C0-B6CDE4B34BF6}" Type="Ref">/My Computer/BinarySignalProcessFiles/Toff.vi/Timer Off Delay/output</Property>
-	<Property Name="varPersistentID:{A2850A70-CCEA-4667-84B9-795879961374}" Type="Ref">/My Computer/BinarySignalProcessFiles/Ton.vi/Timer Off Delay/error out</Property>
-	<Property Name="varPersistentID:{B57ECC61-EE4B-495E-9BC0-D3C0F638B8DE}" Type="Ref">/My Computer/BinarySignalProcessFiles/Toff.vi/Pulse Timer/error out</Property>
-	<Property Name="varPersistentID:{B830B460-7B79-499E-A4D6-827E0BAA7F38}" Type="Ref">/My Computer/BinarySignalProcessFiles/Ton.vi/Timer Off Delay/output</Property>
-	<Property Name="varPersistentID:{C7D671B3-A545-422B-BC5D-71674D308761}" Type="Ref">/My Computer/BinarySignalProcessFiles/Toff.vi/Pulse Timer/elapsed time (ms)</Property>
-	<Property Name="varPersistentID:{CEFC5E39-DCFE-4A56-B518-FBF6D2CD1994}" Type="Ref">/My Computer/BinarySignalProcessFiles/TPulse.vi/Pulse Timer/preset time (ms)</Property>
-	<Property Name="varPersistentID:{D5ABBF87-4A45-4660-BC78-AE92E4AC921C}" Type="Ref">/My Computer/BinarySignalProcessFiles/TPulse.vi/Pulse Timer/elapsed time (ms)</Property>
-	<Property Name="varPersistentID:{D9CC8B9A-601B-4DA0-928A-CE03330719FE}" Type="Ref">/My Computer/BinarySignalProcessFiles/Toff.vi/Timer Off Delay/error out</Property>
-	<Property Name="varPersistentID:{DD9D9219-4E99-4DF9-BDD8-70688C4CD9AD}" Type="Ref">/My Computer/BinarySignalProcessFiles/Toff.vi/Pulse Timer/input</Property>
-	<Property Name="varPersistentID:{E208D10F-103C-4396-8F89-7CE293B68E11}" Type="Ref">/My Computer/BinarySignalProcessFiles/TPulse.vi/Pulse Timer/output</Property>
-	<Property Name="varPersistentID:{E4DABD9E-2927-4DA3-831A-10A82A3CA942}" Type="Ref">/My Computer/BinarySignalProcessFiles/Toff.vi/Edge Detect/input 2</Property>
-	<Property Name="varPersistentID:{E6F79130-FC26-4355-82DF-7D3FB8F381C0}" Type="Ref">/My Computer/BinarySignalProcessFiles/Toff.vi/Timer Off Delay/elapsed time (ms)</Property>
-	<Property Name="varPersistentID:{F91F475A-7611-4D45-8E53-DA2F68C43A3C}" Type="Ref">/My Computer/BinarySignalProcessFiles/Toff.vi/Edge Detect/input 1</Property>
+	<Property Name="varPersistentID:{1040CB17-33C8-4EA8-9ECE-C89D4CFE7518}" Type="Ref">/My Computer/Binary/Toff.vi/Edge Detect 1/error in</Property>
+	<Property Name="varPersistentID:{12D6F40D-B020-48F3-BD27-7E29353479DE}" Type="Ref">/My Computer/Binary/Toff.vi/Timer Off Delay 1/output</Property>
+	<Property Name="varPersistentID:{12D908F5-7D78-44A3-A17C-1835951C6143}" Type="Ref">/My Computer/Binary/Toff.vi/Timer Off Delay 1/preset time (ms)</Property>
+	<Property Name="varPersistentID:{1D446FF0-3EB6-449C-ABCC-77EF454D4B6A}" Type="Ref">/My Computer/Binary/Toff.vi/Edge Detect 1/error out</Property>
+	<Property Name="varPersistentID:{2D75B67D-B306-4C35-A139-E71C22115770}" Type="Ref">/My Computer/Binary/TPulse.vi/Pulse Timer 1/output</Property>
+	<Property Name="varPersistentID:{39003F04-DA8B-40F6-AB9E-CE94D020972E}" Type="Ref">/My Computer/Binary/Toff.vi/Edge Detect 1/input 1</Property>
+	<Property Name="varPersistentID:{3CB65E83-CFF3-41D5-AA89-685E5D989B49}" Type="Ref">/My Computer/Binary/TPulse.vi/Pulse Timer 1/error out</Property>
+	<Property Name="varPersistentID:{47406860-B2CF-4E34-8594-9915CDA091A9}" Type="Ref">/My Computer/Binary/TPulse.vi/Pulse Timer 1/error in</Property>
+	<Property Name="varPersistentID:{4A30B092-3EE2-4A7B-A119-CA38D435E06C}" Type="Ref">/My Computer/Binary/Toff.vi/Edge Detect 1/output</Property>
+	<Property Name="varPersistentID:{4A93F5A8-F625-4CA6-A3C6-F5E7D6C9B294}" Type="Ref">/My Computer/Binary/Toff.vi/Pulse Timer 1/preset time (ms)</Property>
+	<Property Name="varPersistentID:{4F2FB3F2-84C9-40CA-8867-3300C42A505C}" Type="Ref">/My Computer/Binary/Ton.vi/Timer Off Delay 1/error out</Property>
+	<Property Name="varPersistentID:{5095CE01-2F6F-40EE-BAAA-2CB417E765F0}" Type="Ref">/My Computer/Binary/Ton.vi/Pulse Timer 1/elapsed time (ms)</Property>
+	<Property Name="varPersistentID:{64AADD8B-D122-46CC-8040-1A6447F57B9D}" Type="Ref">/My Computer/Binary/Toff.vi/Timer Off Delay 1/input</Property>
+	<Property Name="varPersistentID:{65EFBBAF-F680-4D4A-AFA3-556169E3F5E6}" Type="Ref">/My Computer/Binary/Ton.vi/Timer Off Delay 1/elapsed time (ms)</Property>
+	<Property Name="varPersistentID:{7060BBAA-A85D-437C-A8CA-594EB09A0F24}" Type="Ref">/My Computer/Binary/TPulse.vi/Pulse Timer 1/elapsed time (ms)</Property>
+	<Property Name="varPersistentID:{772901AB-B4D8-47B4-A13A-26E62BE1EF58}" Type="Ref">/My Computer/Binary/Toff.vi/Edge Detect 1/input 2</Property>
+	<Property Name="varPersistentID:{7ED1340C-3204-4911-A023-C61D3EEB332E}" Type="Ref">/My Computer/Binary/TPulse.vi/Pulse Timer 1/input</Property>
+	<Property Name="varPersistentID:{85F5B57A-6236-4017-9B59-57FF86443B4F}" Type="Ref">/My Computer/Binary/Ton.vi/Pulse Timer 1/output</Property>
+	<Property Name="varPersistentID:{8A84F678-2CEE-4B8B-8073-D2A76B235406}" Type="Ref">/My Computer/Binary/Toff.vi/Timer Off Delay 1/error out</Property>
+	<Property Name="varPersistentID:{8AD522C8-4999-49CF-B696-C212A60474E7}" Type="Ref">/My Computer/Binary/Toff.vi/Timer Off Delay 1/error in</Property>
+	<Property Name="varPersistentID:{8EB76311-6909-44ED-8928-770CEB099DEC}" Type="Ref">/My Computer/Binary/Ton.vi/Pulse Timer 1/preset time (ms)</Property>
+	<Property Name="varPersistentID:{98353C06-7EC4-4340-83D4-1290BEB02C37}" Type="Ref">/My Computer/Binary/Ton.vi/Timer Off Delay 1/output</Property>
+	<Property Name="varPersistentID:{AB76DC5F-86C4-4726-8F32-C5C0AACD4ACB}" Type="Ref">/My Computer/Binary/Toff.vi/Pulse Timer 1/error in</Property>
+	<Property Name="varPersistentID:{AFA6B90F-E978-42D8-BAB8-770BB7C10E99}" Type="Ref">/My Computer/Binary/TPulse.vi/Pulse Timer 1/preset time (ms)</Property>
+	<Property Name="varPersistentID:{B39F82F9-356C-40D2-9EC3-709C2E4C8938}" Type="Ref">/My Computer/Binary/Ton.vi/Pulse Timer 1/input</Property>
+	<Property Name="varPersistentID:{BABC48B8-B19F-4F61-AE87-164E00BA5229}" Type="Ref">/My Computer/Binary/Toff.vi/Pulse Timer 1/elapsed time (ms)</Property>
+	<Property Name="varPersistentID:{C3DC5736-5BE6-4223-B066-1807F387CE84}" Type="Ref">/My Computer/Binary/Ton.vi/Timer Off Delay 1/error in</Property>
+	<Property Name="varPersistentID:{CC0E4345-E4FD-4848-A640-23A5A4B0E9DE}" Type="Ref">/My Computer/Binary/Toff.vi/Pulse Timer 1/input</Property>
+	<Property Name="varPersistentID:{CEF2C419-388F-4508-80BC-D5DFBBAD6274}" Type="Ref">/My Computer/Binary/Ton.vi/Timer Off Delay 1/input</Property>
+	<Property Name="varPersistentID:{D2EA49F3-4370-437B-AFB2-DE33616F42EC}" Type="Ref">/My Computer/Binary/Toff.vi/Timer Off Delay 1/elapsed time (ms)</Property>
+	<Property Name="varPersistentID:{D5D1A809-6914-44C8-83A7-4774DC686D04}" Type="Ref">/My Computer/Binary/Toff.vi/Pulse Timer 1/error out</Property>
+	<Property Name="varPersistentID:{D7680DFF-B6AA-4D2D-BAF6-B91ABCCCB200}" Type="Ref">/My Computer/Binary/Ton.vi/Timer Off Delay 1/preset time (ms)</Property>
+	<Property Name="varPersistentID:{DEA46921-EB59-49C0-8721-A48104933FE7}" Type="Ref">/My Computer/Binary/Ton.vi/Pulse Timer 1/error in</Property>
+	<Property Name="varPersistentID:{F6E5FD30-4BF2-4F89-B742-85B736F63BB5}" Type="Ref">/My Computer/Binary/Ton.vi/Pulse Timer 1/error out</Property>
+	<Property Name="varPersistentID:{F8EFA40E-06B9-4B95-9376-C04E00FD248C}" Type="Ref">/My Computer/Binary/Toff.vi/Pulse Timer 1/output</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
@@ -46,35 +46,36 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="AnalogSignalProcessFiles" Type="Folder">
-			<Item Name="A_SIG.vi" Type="VI" URL="../AnalogSignalProcessFiles/A_SIG.vi"/>
-			<Item Name="DT1.vi" Type="VI" URL="../AnalogSignalProcessFiles/DT1.vi"/>
-			<Item Name="DT2.vi" Type="VI" URL="../AnalogSignalProcessFiles/DT2.vi"/>
-			<Item Name="frequency.vi" Type="VI" URL="../AnalogSignalProcessFiles/frequency.vi"/>
-			<Item Name="Hysteresis.vi" Type="VI" URL="../AnalogSignalProcessFiles/Hysteresis.vi"/>
-			<Item Name="PT1.vi" Type="VI" URL="../AnalogSignalProcessFiles/PT1.vi"/>
-			<Item Name="PT2.vi" Type="VI" URL="../AnalogSignalProcessFiles/PT2.vi"/>
-			<Item Name="s_domain.vi" Type="VI" URL="../AnalogSignalProcessFiles/s_domain.vi"/>
-			<Item Name="Test_DT1.vi" Type="VI" URL="../AnalogSignalProcessFiles/Test_DT1.vi"/>
-			<Item Name="Test_PT1.vi" Type="VI" URL="../AnalogSignalProcessFiles/Test_PT1.vi"/>
-			<Item Name="Test_PT2.vi" Type="VI" URL="../AnalogSignalProcessFiles/Test_PT2.vi"/>
-			<Item Name="TestHysteresis.vi" Type="VI" URL="../AnalogSignalProcessFiles/TestHysteresis.vi"/>
+		<Item Name="Analog" Type="Folder">
+			<Item Name="A_SIG.vi" Type="VI" URL="../Analog/A_SIG.vi"/>
+			<Item Name="DT1.vi" Type="VI" URL="../Analog/DT1.vi"/>
+			<Item Name="DT2.vi" Type="VI" URL="../Analog/DT2.vi"/>
+			<Item Name="frequency.vi" Type="VI" URL="../Analog/frequency.vi"/>
+			<Item Name="Hysteresis.vi" Type="VI" URL="../Analog/Hysteresis.vi"/>
+			<Item Name="PT1.vi" Type="VI" URL="../Analog/PT1.vi"/>
+			<Item Name="PT2.vi" Type="VI" URL="../Analog/PT2.vi"/>
+			<Item Name="s_domain.vi" Type="VI" URL="../Analog/s_domain.vi"/>
+			<Item Name="Second_max.vi" Type="VI" URL="../Analog/Second_max.vi"/>
+			<Item Name="Test_DT1.vi" Type="VI" URL="../Analog/Test_DT1.vi"/>
+			<Item Name="Test_PT1.vi" Type="VI" URL="../Analog/Test_PT1.vi"/>
+			<Item Name="Test_PT2.vi" Type="VI" URL="../Analog/Test_PT2.vi"/>
+			<Item Name="TestHysteresis.vi" Type="VI" URL="../Analog/TestHysteresis.vi"/>
 		</Item>
-		<Item Name="BinarySignalProcessFiles" Type="Folder">
-			<Item Name="PulseGenerator.vi" Type="VI" URL="../BinarySignalProcessFiles/PulseGenerator.vi"/>
-			<Item Name="TestPulseGenerator.vi" Type="VI" URL="../BinarySignalProcessFiles/TestPulseGenerator.vi"/>
-			<Item Name="TestToff.vi" Type="VI" URL="../BinarySignalProcessFiles/TestToff.vi"/>
-			<Item Name="TestTon.vi" Type="VI" URL="../BinarySignalProcessFiles/TestTon.vi"/>
-			<Item Name="TestTPullse.vi" Type="VI" URL="../BinarySignalProcessFiles/TestTPullse.vi"/>
-			<Item Name="Toff.vi" Type="VI" URL="../BinarySignalProcessFiles/Toff.vi">
-				<Item Name="Edge Detect" Type="IIO Function Block">
+		<Item Name="Binary" Type="Folder">
+			<Item Name="PulseGenerator.vi" Type="VI" URL="../Binary/PulseGenerator.vi"/>
+			<Item Name="TestPulseGenerator.vi" Type="VI" URL="../Binary/TestPulseGenerator.vi"/>
+			<Item Name="TestToff.vi" Type="VI" URL="../Binary/TestToff.vi"/>
+			<Item Name="TestTon.vi" Type="VI" URL="../Binary/TestTon.vi"/>
+			<Item Name="TestTPullse.vi" Type="VI" URL="../Binary/TestTPullse.vi"/>
+			<Item Name="Toff.vi" Type="VI" URL="../Binary/Toff.vi">
+				<Item Name="Edge Detect 1" Type="IIO Function Block">
 					<Item Name="error in" Type="Variable"/>
 					<Item Name="error out" Type="Variable"/>
 					<Item Name="input 1" Type="Variable"/>
 					<Item Name="input 2" Type="Variable"/>
 					<Item Name="output" Type="Variable"/>
 				</Item>
-				<Item Name="Pulse Timer" Type="IIO Function Block">
+				<Item Name="Pulse Timer 1" Type="IIO Function Block">
 					<Item Name="elapsed time (ms)" Type="Variable"/>
 					<Item Name="error in" Type="Variable"/>
 					<Item Name="error out" Type="Variable"/>
@@ -82,25 +83,7 @@
 					<Item Name="output" Type="Variable"/>
 					<Item Name="preset time (ms)" Type="Variable"/>
 				</Item>
-				<Item Name="Timer Off Delay" Type="IIO Function Block">
-					<Item Name="elapsed time (ms)" Type="Variable"/>
-					<Item Name="error in" Type="Variable"/>
-					<Item Name="error out" Type="Variable"/>
-					<Item Name="input" Type="Variable"/>
-					<Item Name="output" Type="Variable"/>
-					<Item Name="preset time (ms)" Type="Variable"/>
-				</Item>
-			</Item>
-			<Item Name="Ton.vi" Type="VI" URL="../BinarySignalProcessFiles/Ton.vi">
-				<Item Name="Pulse Timer" Type="IIO Function Block">
-					<Item Name="elapsed time (ms)" Type="Variable"/>
-					<Item Name="error in" Type="Variable"/>
-					<Item Name="error out" Type="Variable"/>
-					<Item Name="input" Type="Variable"/>
-					<Item Name="output" Type="Variable"/>
-					<Item Name="preset time (ms)" Type="Variable"/>
-				</Item>
-				<Item Name="Timer Off Delay" Type="IIO Function Block">
+				<Item Name="Timer Off Delay 1" Type="IIO Function Block">
 					<Item Name="elapsed time (ms)" Type="Variable"/>
 					<Item Name="error in" Type="Variable"/>
 					<Item Name="error out" Type="Variable"/>
@@ -109,8 +92,26 @@
 					<Item Name="preset time (ms)" Type="Variable"/>
 				</Item>
 			</Item>
-			<Item Name="TPulse.vi" Type="VI" URL="../BinarySignalProcessFiles/TPulse.vi">
-				<Item Name="Pulse Timer" Type="IIO Function Block">
+			<Item Name="Ton.vi" Type="VI" URL="../Binary/Ton.vi">
+				<Item Name="Pulse Timer 1" Type="IIO Function Block">
+					<Item Name="elapsed time (ms)" Type="Variable"/>
+					<Item Name="error in" Type="Variable"/>
+					<Item Name="error out" Type="Variable"/>
+					<Item Name="input" Type="Variable"/>
+					<Item Name="output" Type="Variable"/>
+					<Item Name="preset time (ms)" Type="Variable"/>
+				</Item>
+				<Item Name="Timer Off Delay 1" Type="IIO Function Block">
+					<Item Name="elapsed time (ms)" Type="Variable"/>
+					<Item Name="error in" Type="Variable"/>
+					<Item Name="error out" Type="Variable"/>
+					<Item Name="input" Type="Variable"/>
+					<Item Name="output" Type="Variable"/>
+					<Item Name="preset time (ms)" Type="Variable"/>
+				</Item>
+			</Item>
+			<Item Name="TPulse.vi" Type="VI" URL="../Binary/TPulse.vi">
+				<Item Name="Pulse Timer 1" Type="IIO Function Block">
 					<Item Name="elapsed time (ms)" Type="Variable"/>
 					<Item Name="error in" Type="Variable"/>
 					<Item Name="error out" Type="Variable"/>
@@ -123,6 +124,8 @@
 		<Item Name="Control.lvclass" Type="LVClass" URL="../Control/Control.lvclass"/>
 		<Item Name="SI100_ReactorTemperatureRise.lvclass" Type="LVClass" URL="../SI_modules/SI100/SI100_ReactorTemperatureRise.lvclass"/>
 		<Item Name="SI101_AverageReactorCoolantTemperature.lvclass" Type="LVClass" URL="../SI_modules/SI101/SI101_AverageReactorCoolantTemperature.lvclass"/>
+		<Item Name="SI656.lvclass" Type="LVClass" URL="../SI_modules/SI656/SI656.lvclass"/>
+		<Item Name="SI657.lvclass" Type="LVClass" URL="../SI_modules/SI657/SI657.lvclass"/>
 		<Item Name="SIClass.lvclass" Type="LVClass" URL="../SI_modules/SIClass/SIClass.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
@@ -193,9 +196,7 @@
 				<Item Name="Sort 1D Array Core.vim" Type="VI" URL="/&lt;vilib&gt;/Array/Helpers/Sort 1D Array Core.vim"/>
 				<Item Name="Sort 1D Array.vim" Type="VI" URL="/&lt;vilib&gt;/Array/Sort 1D Array.vim"/>
 			</Item>
-			<Item Name="AnalogSignalProcessClass.ctl" Type="VI" URL="../AnalogSignalProcessFiles/AnalogSignalProcessClass.lvclass/AnalogSignalProcessClass.ctl"/>
-			<Item Name="BinarySignalProcessClass.ctl" Type="VI" URL="../BinarySignalProcessFiles/BinarySignalProcessClass.lvclass/BinarySignalProcessClass.ctl"/>
-			<Item Name="BinarySignalProcessClass.lvclass" Type="LVClass" URL="../BinarySignalProcessFiles/BinarySignalProcessClass.lvclass"/>
+			<Item Name="AnalogSignalProcessClass.ctl" Type="VI" URL="../Analog/AnalogSignalProcessClass.lvclass/AnalogSignalProcessClass.ctl"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
