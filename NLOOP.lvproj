@@ -52,6 +52,7 @@
 			<Item Name="DT2.vi" Type="VI" URL="../Analog/DT2.vi"/>
 			<Item Name="frequency.vi" Type="VI" URL="../Analog/frequency.vi"/>
 			<Item Name="Hysteresis.vi" Type="VI" URL="../Analog/Hysteresis.vi"/>
+			<Item Name="Limiter.vi" Type="VI" URL="../Analog/Limiter.vi"/>
 			<Item Name="PT1.vi" Type="VI" URL="../Analog/PT1.vi"/>
 			<Item Name="PT2.vi" Type="VI" URL="../Analog/PT2.vi"/>
 			<Item Name="s_domain.vi" Type="VI" URL="../Analog/s_domain.vi"/>
@@ -121,12 +122,26 @@
 				</Item>
 			</Item>
 		</Item>
-		<Item Name="Control.lvclass" Type="LVClass" URL="../Control/Control.lvclass"/>
-		<Item Name="SI100_ReactorTemperatureRise.lvclass" Type="LVClass" URL="../SI_modules/SI100/SI100_ReactorTemperatureRise.lvclass"/>
-		<Item Name="SI101_AverageReactorCoolantTemperature.lvclass" Type="LVClass" URL="../SI_modules/SI101/SI101_AverageReactorCoolantTemperature.lvclass"/>
-		<Item Name="SI656.lvclass" Type="LVClass" URL="../SI_modules/SI656/SI656.lvclass"/>
-		<Item Name="SI657.lvclass" Type="LVClass" URL="../SI_modules/SI657/SI657.lvclass"/>
-		<Item Name="SIClass.lvclass" Type="LVClass" URL="../SI_modules/SIClass/SIClass.lvclass"/>
+		<Item Name="Control" Type="Folder">
+			<Item Name="Control.lvclass" Type="LVClass" URL="../Control/Control.lvclass"/>
+		</Item>
+		<Item Name="SI_modules" Type="Folder">
+			<Item Name="SI100" Type="Folder">
+				<Item Name="SI100_ReactorTemperatureRise.lvclass" Type="LVClass" URL="../SI_modules/SI100/SI100_ReactorTemperatureRise.lvclass"/>
+			</Item>
+			<Item Name="SI101" Type="Folder">
+				<Item Name="SI101_AverageReactorCoolantTemperature.lvclass" Type="LVClass" URL="../SI_modules/SI101/SI101_AverageReactorCoolantTemperature.lvclass"/>
+			</Item>
+			<Item Name="SI656" Type="Folder">
+				<Item Name="SI656.lvclass" Type="LVClass" URL="../SI_modules/SI656/SI656.lvclass"/>
+			</Item>
+			<Item Name="SI657" Type="Folder">
+				<Item Name="SI657.lvclass" Type="LVClass" URL="../SI_modules/SI657/SI657.lvclass"/>
+			</Item>
+			<Item Name="SIClass" Type="Folder">
+				<Item Name="SIClass.lvclass" Type="LVClass" URL="../SI_modules/SIClass/SIClass.lvclass"/>
+			</Item>
+		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="CD Generic Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/addons/Control Design/_Utility/CD Generic Error Handler.vi"/>
