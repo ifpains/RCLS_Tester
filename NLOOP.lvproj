@@ -57,6 +57,7 @@
 			<Item Name="PT2.vi" Type="VI" URL="../Analog/PT2.vi"/>
 			<Item Name="s_domain.vi" Type="VI" URL="../Analog/s_domain.vi"/>
 			<Item Name="Second_max.vi" Type="VI" URL="../Analog/Second_max.vi"/>
+			<Item Name="Second_min.vi" Type="VI" URL="../Analog/Second_min.vi"/>
 			<Item Name="Test_DT1.vi" Type="VI" URL="../Analog/Test_DT1.vi"/>
 			<Item Name="Test_PT1.vi" Type="VI" URL="../Analog/Test_PT1.vi"/>
 			<Item Name="Test_PT2.vi" Type="VI" URL="../Analog/Test_PT2.vi"/>
@@ -124,6 +125,11 @@
 		</Item>
 		<Item Name="Control" Type="Folder">
 			<Item Name="Control.lvclass" Type="LVClass" URL="../Control/Control.lvclass"/>
+		</Item>
+		<Item Name="MD_modules" Type="Folder">
+			<Item Name="MD420" Type="Folder">
+				<Item Name="MD420.lvclass" Type="LVClass" URL="../MD_modules/MD420/MD420.lvclass"/>
+			</Item>
 		</Item>
 		<Item Name="SI_modules" Type="Folder">
 			<Item Name="SI100" Type="Folder">
