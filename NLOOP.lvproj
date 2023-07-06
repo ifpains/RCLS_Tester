@@ -144,9 +144,6 @@
 			<Item Name="SI657" Type="Folder">
 				<Item Name="SI657.lvclass" Type="LVClass" URL="../SI_modules/SI657/SI657.lvclass"/>
 			</Item>
-			<Item Name="SIClass" Type="Folder">
-				<Item Name="SIClass.lvclass" Type="LVClass" URL="../SI_modules/SIClass/SIClass.lvclass"/>
-			</Item>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
