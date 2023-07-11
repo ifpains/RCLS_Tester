@@ -52,6 +52,7 @@
 			<Item Name="DT2.vi" Type="VI" URL="../Analog/DT2.vi"/>
 			<Item Name="frequency.vi" Type="VI" URL="../Analog/frequency.vi"/>
 			<Item Name="Hysteresis.vi" Type="VI" URL="../Analog/Hysteresis.vi"/>
+			<Item Name="Hysteresis_max.vi" Type="VI" URL="../Analog/Hysteresis_max.vi"/>
 			<Item Name="Limiter.vi" Type="VI" URL="../Analog/Limiter.vi"/>
 			<Item Name="PT1.vi" Type="VI" URL="../Analog/PT1.vi"/>
 			<Item Name="PT2.vi" Type="VI" URL="../Analog/PT2.vi"/>
