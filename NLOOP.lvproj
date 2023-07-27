@@ -53,13 +53,18 @@
 			<Item Name="frequency.vi" Type="VI" URL="../Analog/frequency.vi"/>
 			<Item Name="Hysteresis.vi" Type="VI" URL="../Analog/Hysteresis.vi"/>
 			<Item Name="Hysteresis_max.vi" Type="VI" URL="../Analog/Hysteresis_max.vi"/>
+			<Item Name="Hysteresis_min.vi" Type="VI" URL="../Analog/Hysteresis_min.vi"/>
 			<Item Name="Limiter.vi" Type="VI" URL="../Analog/Limiter.vi"/>
+			<Item Name="Max_of_3.vi" Type="VI" URL="../Analog/Max_of_3.vi"/>
+			<Item Name="Min_of_3.vi" Type="VI" URL="../Analog/Min_of_3.vi"/>
 			<Item Name="PT1.vi" Type="VI" URL="../Analog/PT1.vi"/>
 			<Item Name="PT2.vi" Type="VI" URL="../Analog/PT2.vi"/>
 			<Item Name="s_domain.vi" Type="VI" URL="../Analog/s_domain.vi"/>
 			<Item Name="Second_max.vi" Type="VI" URL="../Analog/Second_max.vi"/>
 			<Item Name="Second_min.vi" Type="VI" URL="../Analog/Second_min.vi"/>
 			<Item Name="Test_DT1.vi" Type="VI" URL="../Analog/Test_DT1.vi"/>
+			<Item Name="Test_Hysteresis_max.vi" Type="VI" URL="../Analog/Test_Hysteresis_max.vi"/>
+			<Item Name="Test_Hysteresis_min.vi" Type="VI" URL="../Analog/Test_Hysteresis_min.vi"/>
 			<Item Name="Test_PT1.vi" Type="VI" URL="../Analog/Test_PT1.vi"/>
 			<Item Name="Test_PT2.vi" Type="VI" URL="../Analog/Test_PT2.vi"/>
 			<Item Name="TestHysteresis.vi" Type="VI" URL="../Analog/TestHysteresis.vi"/>
@@ -207,7 +212,6 @@
 				<Item Name="NI_LinSys_Rendering.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/Control Design/_Utility/NI_LinSys_Rendering.lvlib"/>
 				<Item Name="NI_LinSys_String Utilities.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/Control Design/_Utility/NI_LinSys_String Utilities.lvlib"/>
 				<Item Name="NI_MABase.lvlib" Type="Library" URL="/&lt;vilib&gt;/measure/NI_MABase.lvlib"/>
-				<Item Name="NI_MAPro.lvlib" Type="Library" URL="/&lt;vilib&gt;/measure/NI_MAPro.lvlib"/>
 				<Item Name="NI_Matrix.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/Matrix/NI_Matrix.lvlib"/>
 				<Item Name="NI_SysID.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/System Identification/NI_SysID.lvlib"/>
 				<Item Name="PCT Pad String.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/PCT Pad String.vi"/>
@@ -215,7 +219,6 @@
 				<Item Name="Sort 1D Array Core.vim" Type="VI" URL="/&lt;vilib&gt;/Array/Helpers/Sort 1D Array Core.vim"/>
 				<Item Name="Sort 1D Array.vim" Type="VI" URL="/&lt;vilib&gt;/Array/Sort 1D Array.vim"/>
 			</Item>
-			<Item Name="AnalogSignalProcessClass.ctl" Type="VI" URL="../Analog/AnalogSignalProcessClass.lvclass/AnalogSignalProcessClass.ctl"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
