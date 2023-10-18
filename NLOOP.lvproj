@@ -130,7 +130,17 @@
 			</Item>
 		</Item>
 		<Item Name="Control" Type="Folder">
-			<Item Name="Control.lvclass" Type="LVClass" URL="../Control/Control.lvclass"/>
+			<Item Name="BC79" Type="Folder">
+				<Item Name="INPUTS_START_NP" Type="Folder">
+					<Item Name="INPUTS_ACT.txt" Type="Document" URL="../Control/BC79/INPUTS_START_NP/INPUTS_ACT.txt"/>
+				</Item>
+				<Item Name="BC79.lvclass" Type="LVClass" URL="../Control/BC79/BC79.lvclass"/>
+			</Item>
+		</Item>
+		<Item Name="Limitation" Type="Folder">
+			<Item Name="BC56" Type="Folder">
+				<Item Name="BC56.lvclass" Type="LVClass" URL="../Limitation/BC56/BC56.lvclass"/>
+			</Item>
 		</Item>
 		<Item Name="MD_modules" Type="Folder">
 			<Item Name="MD420" Type="Folder">
@@ -143,6 +153,9 @@
 			</Item>
 			<Item Name="SI101" Type="Folder">
 				<Item Name="SI101_AverageReactorCoolantTemperature.lvclass" Type="LVClass" URL="../SI_modules/SI101/SI101_AverageReactorCoolantTemperature.lvclass"/>
+			</Item>
+			<Item Name="SI600" Type="Folder">
+				<Item Name="SI600.lvclass" Type="LVClass" URL="../SI600/SI600.lvclass"/>
 			</Item>
 			<Item Name="SI656" Type="Folder">
 				<Item Name="SI656.lvclass" Type="LVClass" URL="../SI_modules/SI656/SI656.lvclass"/>
@@ -179,6 +192,7 @@
 				<Item Name="Draw Rect.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw Rect.vi"/>
 				<Item Name="Draw Text at Point.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw Text at Point.vi"/>
 				<Item Name="Draw Text in Rect.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw Text in Rect.vi"/>
+				<Item Name="Edge Detect.vi" Type="VI" URL="/&lt;vilib&gt;/functionblocks/Edge Detection/Edge Detect/Edge Detect.vi"/>
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
 				<Item Name="Get Text Rect.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Get Text Rect.vi"/>
 				<Item Name="Less Comparable.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/Comparison/Less/Less Comparable/Less Comparable.lvclass"/>
@@ -215,10 +229,13 @@
 				<Item Name="NI_Matrix.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/Matrix/NI_Matrix.lvlib"/>
 				<Item Name="NI_SysID.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/System Identification/NI_SysID.lvlib"/>
 				<Item Name="PCT Pad String.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/PCT Pad String.vi"/>
+				<Item Name="Pulse Timer.vi" Type="VI" URL="/&lt;vilib&gt;/functionblocks/Counter/Pulse Timer/Pulse Timer.vi"/>
 				<Item Name="Set Pen State.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Set Pen State.vi"/>
 				<Item Name="Sort 1D Array Core.vim" Type="VI" URL="/&lt;vilib&gt;/Array/Helpers/Sort 1D Array Core.vim"/>
 				<Item Name="Sort 1D Array.vim" Type="VI" URL="/&lt;vilib&gt;/Array/Sort 1D Array.vim"/>
+				<Item Name="Timer Off Delay.vi" Type="VI" URL="/&lt;vilib&gt;/functionblocks/Counter/Timer Off Delay/Timer Off Delay.vi"/>
 			</Item>
+			<Item Name="AnalogSignalProcessClass.ctl" Type="VI" URL="../Analog/AnalogSignalProcessClass.lvclass/AnalogSignalProcessClass.ctl"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
