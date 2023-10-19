@@ -21,6 +21,15 @@
 	<Item Name="MD420.ctl" Type="Class Private Data" URL="MD420.ctl">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
+	<Item Name="ACT target_value_matching_value.vi" Type="VI" URL="../ACT target_value_matching_value.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)D#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%^!!!!#1!G1(!!(A!!$QV.2$1S-#ZM&gt;G.M98.T!!V.2$1S-#ZM&gt;G.M98.T!!1!!!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!A1&amp;!!!Q!#!!-!"".F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#J!=!!?!!!0$5V%.$)Q,GRW9WRB=X-!%5V%.$)Q,GRW9WRB=X-A&lt;X6U!":!5!!$!!)!!Q!%#76S=G^S)'^V&gt;!#%!0!!&amp;!!!!!%!!1!"!!%!"1!"!!%!!1!"!!%!!1!"!!%!"A!"!!%!!1!"!!=#!!%1!!!)!!!!!!!!!!!!!!!!!!!!!!!!!!A!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!E!!!!!!!!!!!!!!!!!!!!!!!!!#1!!!!!"!!A!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1342972416</Property>
+	</Item>
 	<Item Name="MD420_ACT_SetpGradientFunction.vi" Type="VI" URL="../MD420_ACT_SetpGradientFunction.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)D#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"A!!!!!A!%!!!!6!$Q!!Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!$!!"Y!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1!"!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
@@ -29,23 +38,5 @@
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
-	</Item>
-	<Item Name="MD420_ACT_SetpointFormation.vi" Type="VI" URL="../MD420_ACT_SetpointFormation.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)D#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"A!!!!!A!%!!!!6!$Q!!Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#!!"Y!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1!"!!!!!!</Property>
-		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
-	</Item>
-	<Item Name="MD420_ACT_TargetValue.vi" Type="VI" URL="../MD420_ACT_TargetValue.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)D#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!,X!!!!(!!G1(!!(A!!$QV.2$1S-#ZM&gt;G.M98.T!!V.2$1S-#ZM&gt;G.M98.T!"N!#A!65UEW.49A5%=A-GZE)%VJ&lt;C"J&lt;C!F!"F!#A!35UEW.4=A5%=A&gt;'&amp;S:W6U)&amp;.1!!!51#%01E-V.C"165V")&amp;*&amp;4%6#!"F!#A!35UER-$%A15.5)$*O:#"$&gt;(*M!!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!A1&amp;!!!Q!&amp;!!9!"R.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!"6!#A!05UEW.4=A5%=A:7:G)&amp;.1!"F!#A!315.5)'RJ&lt;7FU)&amp;.F&gt;("P;7ZU!!!%!!!!+E"Q!"Y!!!].451U-D!O&lt;(:D&lt;'&amp;T=Q!2451U-D!O&lt;(:D&lt;'&amp;T=S"P&gt;81!&amp;5!+!!Z'145S)&amp;"()%6G:C"45!!!$5!+!!:465UA5(-!!"F!#A!35%=A&gt;'&amp;S:W6U#F.F&gt;("P;7ZU!!!/1#%)5&amp;6.13!R,T1!!!Z!)1B12S!])$%Q*1!!&amp;5!+!!^12S"4:82Q&lt;WFO&gt;#".;7Y!&amp;5!+!!^"1V1A&lt;'^X:8)A&lt;'FN;81!&amp;5!+!!^"1V1A&gt;8"Q:8)A&lt;'FN;81!&amp;U!+!"""1V1A&gt;'&amp;S:W6U)(:B&lt;(6F!!!:1!I!%X.U982J9S""1V1+5W6U='^J&lt;H1!'5!+!"*"1V1A&lt;7&amp;U9WBJ&lt;G=+&gt;G&amp;M&gt;75!!"&amp;!#A!,15.5)$*O:#".98A!*E"1!!Q!$1!/!!]!%!!2!")!%Q!5!"5!&amp;A!8!"A(4X6U=(6U=Q!71&amp;!!!Q!&amp;!!9!"QFF=H*P=C"P&gt;81!G1$Q!"1!!!!"!!)!!Q!%!!A!#1!+!!M!#Q!,!!M!#Q!,!!Q!#Q!:!!M!#Q!;!A!"%!!!#!!!!!A!!!!)!!!!#!!!!!A!!!!)!!!!#!!!!!A!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*!!!!!!!!!!E!!!!!!!!!!!!!!!E!!"5!!!!!!!!!!!!!!!!!!!%!!!!!!!!!!1!&lt;!!!!!!</Property>
-		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1074536960</Property>
 	</Item>
 </LVClass>
