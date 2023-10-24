@@ -149,13 +149,13 @@
 		</Item>
 		<Item Name="SI_modules" Type="Folder">
 			<Item Name="SI100" Type="Folder">
-				<Item Name="SI100_ReactorTemperatureRise.lvclass" Type="LVClass" URL="../SI_modules/SI100/SI100_ReactorTemperatureRise.lvclass"/>
+				<Item Name="ReactorTemperatureRise.lvclass" Type="LVClass" URL="../SI_modules/SI100/ReactorTemperatureRise.lvclass"/>
 			</Item>
 			<Item Name="SI101" Type="Folder">
-				<Item Name="SI101_AverageReactorCoolantTemperature.lvclass" Type="LVClass" URL="../SI_modules/SI101/SI101_AverageReactorCoolantTemperature.lvclass"/>
+				<Item Name="AverageReactorCoolantTemperature.lvclass" Type="LVClass" URL="../SI_modules/SI101/AverageReactorCoolantTemperature.lvclass"/>
 			</Item>
 			<Item Name="SI600" Type="Folder">
-				<Item Name="SI600.lvclass" Type="LVClass" URL="../SI600/SI600.lvclass"/>
+				<Item Name="SI600.lvclass" Type="LVClass" URL="../SI_modules/SI600/SI600.lvclass"/>
 			</Item>
 			<Item Name="SI656" Type="Folder">
 				<Item Name="SI656.lvclass" Type="LVClass" URL="../SI_modules/SI656/SI656.lvclass"/>
