@@ -62,12 +62,14 @@
 			<Item Name="s_domain.vi" Type="VI" URL="../Analog/s_domain.vi"/>
 			<Item Name="Second_max.vi" Type="VI" URL="../Analog/Second_max.vi"/>
 			<Item Name="Second_min.vi" Type="VI" URL="../Analog/Second_min.vi"/>
+			<Item Name="SetPoint.vi" Type="VI" URL="../Analog/SetPoint.vi"/>
 			<Item Name="Test_DT1.vi" Type="VI" URL="../Analog/Test_DT1.vi"/>
 			<Item Name="Test_Hysteresis_max.vi" Type="VI" URL="../Analog/Test_Hysteresis_max.vi"/>
 			<Item Name="Test_Hysteresis_min.vi" Type="VI" URL="../Analog/Test_Hysteresis_min.vi"/>
 			<Item Name="Test_PT1.vi" Type="VI" URL="../Analog/Test_PT1.vi"/>
 			<Item Name="Test_PT2.vi" Type="VI" URL="../Analog/Test_PT2.vi"/>
 			<Item Name="TestHysteresis.vi" Type="VI" URL="../Analog/TestHysteresis.vi"/>
+			<Item Name="TestSerpoint.vi" Type="VI" URL="../Analog/TestSerpoint.vi"/>
 		</Item>
 		<Item Name="Binary" Type="Folder">
 			<Item Name="PulseGenerator.vi" Type="VI" URL="../Binary/PulseGenerator.vi"/>
@@ -149,10 +151,10 @@
 		</Item>
 		<Item Name="SI_modules" Type="Folder">
 			<Item Name="SI100" Type="Folder">
-				<Item Name="ReactorTemperatureRise.lvclass" Type="LVClass" URL="../SI_modules/SI100/ReactorTemperatureRise.lvclass"/>
+				<Item Name="SI100.lvclass" Type="LVClass" URL="../SI_modules/SI100/SI100.lvclass"/>
 			</Item>
 			<Item Name="SI101" Type="Folder">
-				<Item Name="AverageReactorCoolantTemperature.lvclass" Type="LVClass" URL="../SI_modules/SI101/AverageReactorCoolantTemperature.lvclass"/>
+				<Item Name="SI101.lvclass" Type="LVClass" URL="../SI_modules/SI101/SI101.lvclass"/>
 			</Item>
 			<Item Name="SI600" Type="Folder">
 				<Item Name="SI600.lvclass" Type="LVClass" URL="../SI_modules/SI600/SI600.lvclass"/>
@@ -232,6 +234,7 @@
 				<Item Name="Sort 1D Array Core.vim" Type="VI" URL="/&lt;vilib&gt;/Array/Helpers/Sort 1D Array Core.vim"/>
 				<Item Name="Sort 1D Array.vim" Type="VI" URL="/&lt;vilib&gt;/Array/Sort 1D Array.vim"/>
 			</Item>
+			<Item Name="AnalogSignalProcessClass.ctl" Type="VI" URL="../Analog/AnalogSignalProcessClass.lvclass/AnalogSignalProcessClass.ctl"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
