@@ -150,11 +150,9 @@
 		</Item>
 		<Item Name="Control" Type="Folder">
 			<Item Name="BC79" Type="Folder">
-				<Item Name="INPUTS_START_NP" Type="Folder">
-					<Item Name="INPUTS_ACT.txt" Type="Document" URL="../Control/BC79/INPUTS_START_NP/INPUTS_ACT.txt"/>
-				</Item>
 				<Item Name="BC79.lvclass" Type="LVClass" URL="../Control/BC79/BC79.lvclass"/>
 			</Item>
+			<Item Name="INPUTS_ACT.txt" Type="Document" URL="../Control/INPUTS_ACT.txt"/>
 		</Item>
 		<Item Name="Limitation" Type="Folder">
 			<Item Name="BC56" Type="Folder">
@@ -181,6 +179,12 @@
 			</Item>
 			<Item Name="SI657" Type="Folder">
 				<Item Name="SI657.lvclass" Type="LVClass" URL="../SI_modules/SI657/SI657.lvclass"/>
+			</Item>
+			<Item Name="SI750" Type="Folder">
+				<Item Name="SI750.lvclass" Type="LVClass" URL="../SI_modules/SI750/SI750.lvclass"/>
+			</Item>
+			<Item Name="SI804" Type="Folder">
+				<Item Name="SI804.lvclass" Type="LVClass" URL="../SI_modules/SI804/SI804.lvclass"/>
 			</Item>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
