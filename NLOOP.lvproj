@@ -73,7 +73,6 @@
 			<Item Name="Test_Hysteresis_max.vi" Type="VI" URL="../Analog/Test_Hysteresis_max.vi"/>
 			<Item Name="Test_Hysteresis_min.vi" Type="VI" URL="../Analog/Test_Hysteresis_min.vi"/>
 			<Item Name="Test_PT1.vi" Type="VI" URL="../Analog/Test_PT1.vi"/>
-			<Item Name="Test_PT2.vi" Type="VI" URL="../Analog/Test_PT2.vi"/>
 			<Item Name="TestHysteresis.vi" Type="VI" URL="../Analog/TestHysteresis.vi"/>
 			<Item Name="TestSerpoint.vi" Type="VI" URL="../Analog/TestSerpoint.vi"/>
 		</Item>
@@ -154,7 +153,6 @@
 			<Item Name="BC79" Type="Folder">
 				<Item Name="BC79.lvclass" Type="LVClass" URL="../Control/BC79/BC79.lvclass"/>
 			</Item>
-			<Item Name="INPUTS_ACT.txt" Type="Document" URL="../Control/INPUTS_ACT.txt"/>
 		</Item>
 		<Item Name="Limitation" Type="Folder">
 			<Item Name="BC56" Type="Folder">
@@ -312,7 +310,6 @@
 				<Item Name="WDT Waveform Duration DBL.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/WDTOps.llb/WDT Waveform Duration DBL.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
-			<Item Name="AnalogSignalProcessClass.ctl" Type="VI" URL="../Analog/AnalogSignalProcessClass.lvclass/AnalogSignalProcessClass.ctl"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
