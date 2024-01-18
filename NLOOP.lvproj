@@ -52,6 +52,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Analog" Type="Folder">
 			<Item Name="A_SIG.vi" Type="VI" URL="../Analog/A_SIG.vi"/>
+			<Item Name="ADD_BIN.vi" Type="VI" URL="../Analog/ADD_BIN.vi"/>
 			<Item Name="DT1.vi" Type="VI" URL="../Analog/DT1.vi"/>
 			<Item Name="DT2.vi" Type="VI" URL="../Analog/DT2.vi"/>
 			<Item Name="frequency.vi" Type="VI" URL="../Analog/frequency.vi"/>
@@ -67,6 +68,7 @@
 			<Item Name="Second_max.vi" Type="VI" URL="../Analog/Second_max.vi"/>
 			<Item Name="Second_min.vi" Type="VI" URL="../Analog/Second_min.vi"/>
 			<Item Name="SetPoint.vi" Type="VI" URL="../Analog/SetPoint.vi"/>
+			<Item Name="Test_ADD_BIN.vi" Type="VI" URL="../Analog/Test_ADD_BIN.vi"/>
 			<Item Name="Test_DT1.vi" Type="VI" URL="../Analog/Test_DT1.vi"/>
 			<Item Name="Test_Hysteresis_max.vi" Type="VI" URL="../Analog/Test_Hysteresis_max.vi"/>
 			<Item Name="Test_Hysteresis_min.vi" Type="VI" URL="../Analog/Test_Hysteresis_min.vi"/>
@@ -160,6 +162,9 @@
 			</Item>
 		</Item>
 		<Item Name="MD_modules" Type="Folder">
+			<Item Name="MD403" Type="Folder">
+				<Item Name="MD403.lvclass" Type="LVClass" URL="../MD_modules/MD403/MD403.lvclass"/>
+			</Item>
 			<Item Name="MD420" Type="Folder">
 				<Item Name="MD420.lvclass" Type="LVClass" URL="../MD_modules/MD420/MD420.lvclass"/>
 			</Item>
