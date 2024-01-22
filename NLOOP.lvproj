@@ -72,6 +72,7 @@
 			<Item Name="Test_DT1.vi" Type="VI" URL="../Analog/Test_DT1.vi"/>
 			<Item Name="Test_Hysteresis_max.vi" Type="VI" URL="../Analog/Test_Hysteresis_max.vi"/>
 			<Item Name="Test_Hysteresis_min.vi" Type="VI" URL="../Analog/Test_Hysteresis_min.vi"/>
+			<Item Name="Test_Limiter.vi" Type="VI" URL="../Analog/Test_Limiter.vi"/>
 			<Item Name="Test_PT1.vi" Type="VI" URL="../Analog/Test_PT1.vi"/>
 			<Item Name="TestHysteresis.vi" Type="VI" URL="../Analog/TestHysteresis.vi"/>
 			<Item Name="TestSerpoint.vi" Type="VI" URL="../Analog/TestSerpoint.vi"/>
