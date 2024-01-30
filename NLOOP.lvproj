@@ -193,10 +193,11 @@
 		</Item>
 		<Item Name="Test_Modules" Type="Folder">
 			<Item Name="SI656" Type="Folder">
+				<Item Name="Data_Acquisition.vi" Type="VI" URL="../Test_Modules/SI656/Data_Acquisition.vi"/>
 				<Item Name="MKA02CE901.csv" Type="Document" URL="../Test_Modules/SI656/MKA02CE901.csv"/>
 				<Item Name="MKA02CE901.txt" Type="Document" URL="../Test_Modules/SI656/MKA02CE901.txt"/>
 				<Item Name="MKA02CE901.xlsx" Type="Document" URL="../Test_Modules/SI656/MKA02CE901.xlsx"/>
-				<Item Name="Test_SI656vi.vi" Type="VI" URL="../Test_Modules/SI656/Test_SI656vi.vi"/>
+				<Item Name="Test_SI656.vi" Type="VI" URL="../Test_Modules/SI656/Test_SI656.vi"/>
 			</Item>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
