@@ -61,9 +61,7 @@
 			<Item Name="DT2_discrete_b2.vi" Type="VI" URL="../Analog/DT2_discrete_b2.vi"/>
 			<Item Name="frequency.vi" Type="VI" URL="../Analog/frequency.vi"/>
 			<Item Name="Hysteresis.vi" Type="VI" URL="../Analog/Hysteresis.vi"/>
-			<Item Name="Hysteresis_max-LAPTOP-A1ILEVN9.vi" Type="VI" URL="../Analog/Hysteresis_max-LAPTOP-A1ILEVN9.vi"/>
 			<Item Name="Hysteresis_max.vi" Type="VI" URL="../Analog/Hysteresis_max.vi"/>
-			<Item Name="Hysteresis_min-LAPTOP-A1ILEVN9.vi" Type="VI" URL="../Analog/Hysteresis_min-LAPTOP-A1ILEVN9.vi"/>
 			<Item Name="Hysteresis_min.vi" Type="VI" URL="../Analog/Hysteresis_min.vi"/>
 			<Item Name="Limiter.vi" Type="VI" URL="../Analog/Limiter.vi"/>
 			<Item Name="Max_of_3.vi" Type="VI" URL="../Analog/Max_of_3.vi"/>
@@ -78,9 +76,7 @@
 			<Item Name="Test_ADD_BIN.vi" Type="VI" URL="../Analog/Test_ADD_BIN.vi"/>
 			<Item Name="Test_DT1.vi" Type="VI" URL="../Analog/Test_DT1.vi"/>
 			<Item Name="Test_DT2_discrete.vi" Type="VI" URL="../Analog/Test_DT2_discrete.vi"/>
-			<Item Name="Test_Hysteresis_max-LAPTOP-A1ILEVN9.vi" Type="VI" URL="../Analog/Test_Hysteresis_max-LAPTOP-A1ILEVN9.vi"/>
 			<Item Name="Test_Hysteresis_max.vi" Type="VI" URL="../Analog/Test_Hysteresis_max.vi"/>
-			<Item Name="Test_Hysteresis_min-LAPTOP-A1ILEVN9.vi" Type="VI" URL="../Analog/Test_Hysteresis_min-LAPTOP-A1ILEVN9.vi"/>
 			<Item Name="Test_Hysteresis_min.vi" Type="VI" URL="../Analog/Test_Hysteresis_min.vi"/>
 			<Item Name="Test_Limiter.vi" Type="VI" URL="../Analog/Test_Limiter.vi"/>
 			<Item Name="Test_Max_of_3.vi" Type="VI" URL="../Analog/Test_Max_of_3.vi"/>
