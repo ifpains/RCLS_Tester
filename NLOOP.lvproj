@@ -55,14 +55,21 @@
 			<Item Name="ADD_BIN.vi" Type="VI" URL="../Analog/ADD_BIN.vi"/>
 			<Item Name="DT1.vi" Type="VI" URL="../Analog/DT1.vi"/>
 			<Item Name="DT2.vi" Type="VI" URL="../Analog/DT2.vi"/>
+			<Item Name="DT2_discrete.vi" Type="VI" URL="../Analog/DT2_discrete.vi"/>
+			<Item Name="DT2_discrete_a0.vi" Type="VI" URL="../Analog/DT2_discrete_a0.vi"/>
+			<Item Name="DT2_discrete_b1.vi" Type="VI" URL="../Analog/DT2_discrete_b1.vi"/>
+			<Item Name="DT2_discrete_b2.vi" Type="VI" URL="../Analog/DT2_discrete_b2.vi"/>
 			<Item Name="frequency.vi" Type="VI" URL="../Analog/frequency.vi"/>
 			<Item Name="Hysteresis.vi" Type="VI" URL="../Analog/Hysteresis.vi"/>
+			<Item Name="Hysteresis_max-LAPTOP-A1ILEVN9.vi" Type="VI" URL="../Analog/Hysteresis_max-LAPTOP-A1ILEVN9.vi"/>
 			<Item Name="Hysteresis_max.vi" Type="VI" URL="../Analog/Hysteresis_max.vi"/>
+			<Item Name="Hysteresis_min-LAPTOP-A1ILEVN9.vi" Type="VI" URL="../Analog/Hysteresis_min-LAPTOP-A1ILEVN9.vi"/>
 			<Item Name="Hysteresis_min.vi" Type="VI" URL="../Analog/Hysteresis_min.vi"/>
 			<Item Name="Limiter.vi" Type="VI" URL="../Analog/Limiter.vi"/>
 			<Item Name="Max_of_3.vi" Type="VI" URL="../Analog/Max_of_3.vi"/>
 			<Item Name="Min_of_3.vi" Type="VI" URL="../Analog/Min_of_3.vi"/>
 			<Item Name="PT1.vi" Type="VI" URL="../Analog/PT1.vi"/>
+			<Item Name="PT1_discrete.vi" Type="VI" URL="../Analog/PT1_discrete.vi"/>
 			<Item Name="PT2.vi" Type="VI" URL="../Analog/PT2.vi"/>
 			<Item Name="s_domain.vi" Type="VI" URL="../Analog/s_domain.vi"/>
 			<Item Name="Second_max.vi" Type="VI" URL="../Analog/Second_max.vi"/>
@@ -70,10 +77,18 @@
 			<Item Name="SetPoint.vi" Type="VI" URL="../Analog/SetPoint.vi"/>
 			<Item Name="Test_ADD_BIN.vi" Type="VI" URL="../Analog/Test_ADD_BIN.vi"/>
 			<Item Name="Test_DT1.vi" Type="VI" URL="../Analog/Test_DT1.vi"/>
+			<Item Name="Test_DT2_discrete.vi" Type="VI" URL="../Analog/Test_DT2_discrete.vi"/>
+			<Item Name="Test_Hysteresis_max-LAPTOP-A1ILEVN9.vi" Type="VI" URL="../Analog/Test_Hysteresis_max-LAPTOP-A1ILEVN9.vi"/>
 			<Item Name="Test_Hysteresis_max.vi" Type="VI" URL="../Analog/Test_Hysteresis_max.vi"/>
+			<Item Name="Test_Hysteresis_min-LAPTOP-A1ILEVN9.vi" Type="VI" URL="../Analog/Test_Hysteresis_min-LAPTOP-A1ILEVN9.vi"/>
 			<Item Name="Test_Hysteresis_min.vi" Type="VI" URL="../Analog/Test_Hysteresis_min.vi"/>
 			<Item Name="Test_Limiter.vi" Type="VI" URL="../Analog/Test_Limiter.vi"/>
+			<Item Name="Test_Max_of_3.vi" Type="VI" URL="../Analog/Test_Max_of_3.vi"/>
+			<Item Name="Test_Min_of_3.vi" Type="VI" URL="../Analog/Test_Min_of_3.vi"/>
 			<Item Name="Test_PT1.vi" Type="VI" URL="../Analog/Test_PT1.vi"/>
+			<Item Name="Test_PT1_discrete.vi" Type="VI" URL="../Analog/Test_PT1_discrete.vi"/>
+			<Item Name="Test_Second_max.vi" Type="VI" URL="../Analog/Test_Second_max.vi"/>
+			<Item Name="Test_Second_min.vi" Type="VI" URL="../Analog/Test_Second_min.vi"/>
 			<Item Name="TestHysteresis.vi" Type="VI" URL="../Analog/TestHysteresis.vi"/>
 			<Item Name="TestSerpoint.vi" Type="VI" URL="../Analog/TestSerpoint.vi"/>
 		</Item>
@@ -192,13 +207,28 @@
 			</Item>
 		</Item>
 		<Item Name="Test_Modules" Type="Folder">
+			<Item Name="SI100" Type="Folder">
+				<Item Name="JEC95.csv" Type="Document" URL="../Test_Modules/SI100/JEC95.csv"/>
+				<Item Name="Test_Reactor Temperature Rise Redundancy.vi" Type="VI" URL="../Test_Modules/SI100/Test_Reactor Temperature Rise Redundancy.vi"/>
+			</Item>
+			<Item Name="SI101" Type="Folder">
+				<Item Name="JEC00.csv" Type="Document" URL="../Test_Modules/SI101/JEC00.csv"/>
+				<Item Name="Test_Aquisition_Reactor_Coolant_Loop Temperature_SG_Inlet_Average.vi" Type="VI" URL="../Test_Modules/SI101/Test_Aquisition_Reactor_Coolant_Loop Temperature_SG_Inlet_Average.vi"/>
+				<Item Name="Test_Aquisition_Reactor_Coolant_Loop_Temperature_SG_Outlet.vi" Type="VI" URL="../Test_Modules/SI101/Test_Aquisition_Reactor_Coolant_Loop_Temperature_SG_Outlet.vi"/>
+				<Item Name="Test_Average_Reactor_Cool_Loop_ACT_actual_derivative.vi" Type="VI" URL="../Test_Modules/SI101/Test_Average_Reactor_Cool_Loop_ACT_actual_derivative.vi"/>
+			</Item>
+			<Item Name="SI600" Type="Folder">
+				<Item Name="JEB.csv" Type="Document" URL="../Test_Modules/SI600/JEB.csv"/>
+				<Item Name="Test_Determination_of_Min_Max_Average_Value.vi" Type="VI" URL="../Test_Modules/SI600/Test_Determination_of_Min_Max_Average_Value.vi"/>
+				<Item Name="Test_Reactor_Coolant_Pump_Motor_Speed_Loop.vi.vi" Type="VI" URL="../Test_Modules/SI600/Test_Reactor_Coolant_Pump_Motor_Speed_Loop.vi.vi"/>
+			</Item>
 			<Item Name="SI656" Type="Folder">
-				<Item Name="Data_Acquisition.vi" Type="VI" URL="../Test_Modules/SI656/Data_Acquisition.vi"/>
 				<Item Name="MKA02CE901.csv" Type="Document" URL="../Test_Modules/SI656/MKA02CE901.csv"/>
 				<Item Name="MKA02CE901.txt" Type="Document" URL="../Test_Modules/SI656/MKA02CE901.txt"/>
 				<Item Name="MKA02CE901.xlsx" Type="Document" URL="../Test_Modules/SI656/MKA02CE901.xlsx"/>
 				<Item Name="Test_SI656.vi" Type="VI" URL="../Test_Modules/SI656/Test_SI656.vi"/>
 			</Item>
+			<Item Name="Data_Acquisition.vi" Type="VI" URL="../Test_Modules/Data_Acquisition.vi"/>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
